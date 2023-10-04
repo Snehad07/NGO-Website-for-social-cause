@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+}
+.background {
+    background-image: url('https://www.hult.edu/blog/media/uploads/2019/01/shutterstock_1155881311_FEAT.jpg');
+    background-repeat: no-repeat;
+    background-size: cover; /* Adjusted to cover the entire div */
+    background-attachment: fixed;
+    width: 100%; /* Adjusted to 100% width */
+    height:600px; /* Adjusted height to fit content */
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+button {
+    background-color:ivory;
+    color: blue;
+    width:10%;
+    height:50px;
+    text-align: center;
+}
